@@ -1,4 +1,4 @@
-import { MongodHelper } from 'mongodb-prebuilt';
+import { MongodHelper } from '@easymetrics/mongodb-prebuilt';
 import { MockgooseHelper } from './mockgoose-helper';
 export declare class Mockgoose {
     helper: MockgooseHelper;
